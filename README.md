@@ -5,29 +5,19 @@
 
 🤡
 <table border="2" align="center" width="50%" cellspacing="0">
+	
 	<tr>
-		<th>столбец</th>
-		<th>столбец</th>
-		<th>столбец</th>
-	</tr>
-	<tr>
-		<td align="center">ячейка</td>
-		<td align="center">ячейка</td>
-		<td align="center">ячейка</td>
-	</tr>
-	<tr>
-		<td align="center" colspan="3">ячейка</td>
-	</tr>
-	<tr>
-		<td rowspan="3">ячейка</td>
+		
 		<td>ячейка</td>
 		<td>ячейка</td>
 	</tr>
 	<tr>
 		<td>ячейка</td>
 		<td>ячейка</td>
+		<td>ячейка</td>
 	</tr>
 	<tr>
+		<td>ячейка</td>
 		<td>ячейка</td>
 		<td>ячейка</td>
 	</tr>
