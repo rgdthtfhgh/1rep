@@ -4,3 +4,31 @@
 ![d679b521a7847b7c9156bb49ca2e38c0](https://github.com/rgdthtfhgh/1rep/assets/159879667/a425a288-1bb9-4891-bf04-c27bd068dc41)
 
 🤡
+<table border="2" align="center" width="50%" cellspacing="0">
+	<tr>
+		<th>столбец</th>
+		<th>столбец</th>
+		<th>столбец</th>
+	</tr>
+	<tr>
+		<td align="center">ячейка</td>
+		<td align="center">ячейка</td>
+		<td align="center">ячейка</td>
+	</tr>
+	<tr>
+		<td align="center" colspan="3">ячейка</td>
+	</tr>
+	<tr>
+		<td rowspan="3">ячейка</td>
+		<td>ячейка</td>
+		<td>ячейка</td>
+	</tr>
+	<tr>
+		<td>ячейка</td>
+		<td>ячейка</td>
+	</tr>
+	<tr>
+		<td>ячейка</td>
+		<td>ячейка</td>
+	</tr>
+</table>
